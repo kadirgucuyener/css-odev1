@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+nav {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #9DC08B;
+}
+
+h2 {
+    font-size: 40px;
+    color: #40513B;
+}
+
+h3{
+    font-size: 30px;
+    color: #609966;
+}
+
+a{
+    padding: 10px;
+}
+
+p{
+    font-size: 1.25em;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside
+}
+
+li {
+    font-size: 1.25em;
+}
+
+main{
+    text-align: left;
+}
+
